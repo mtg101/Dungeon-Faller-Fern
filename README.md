@@ -6,6 +6,5 @@ I'm also planning to learn some more optimizations. Each demo I found new tricks
 
 tl;dr concept of game: our protagonist falls down a hole, and must get to the bottom in time without dying to save an elf. 
 
-Terrible idea for a game: but it gives us a hole to fall down. And procen bg and obstacles. And stack-based scrolling - hopefully 20-col wide hole using IX/IY registers as well for stack render! 
-Game status shown in top border, leaving sides of main screen to shw distance to bottom of whole. And other border tricks on title screen and the like. 
+Terrible idea for a game: but it gives us a hole to fall down. And procen bg and obstacles. And stack-based scrolling - hopefully with a 20-col wide scrolling hole using IX/IY registers as well for stack render! Game status shown in top border, leaving 6-col sides of main screen to show distance to bottom of hole. And other border tricks on title screen and the like... 
 
